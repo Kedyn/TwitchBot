@@ -1,0 +1,20 @@
+{
+  "name": "simple-twitch-bot",
+  "version": "1.0.0",
+  "description": "Simple Twitch Bot created with Typescript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc & node main.js"
+  },
+  "keywords": [
+    "Simple",
+    "Twitch",
+    "Bot"
+  ],
+  "author": "Kedyn Macedonio",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.1.2"
+  }
+}
