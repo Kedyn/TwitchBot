@@ -7,6 +7,8 @@ let my_bot = new SimpleTwitchBot("SimpleTwitchBot","oauth:???",["SimpleTwitchBot
 
 
 //Add the Root Module
+//addModule(RootModule(SimpleTwitchBot, "Main user/ your user name not your bot's"))
 my_bot.addModule(new RootModule(my_bot, "Me"));
 
+//Connect bot
 my_bot.connect();
