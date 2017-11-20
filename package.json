@@ -1,6 +1,6 @@
 {
   "name": "simple-twitch-bot",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple Twitch Bot created with Typescript.",
   "main": "main.js",
   "scripts": {

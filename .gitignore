@@ -2,6 +2,7 @@
 node_modules/
 *.js
 *.js.map
+sinstrbot.*
 npm-debug.log
 
 # Windows image file caches
